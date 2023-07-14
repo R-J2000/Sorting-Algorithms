@@ -1,3 +1,3 @@
 # Sorting-Algorithms
 
-Sorting Algorithim notes and implementations
+Sorting Algorithm notes and implementations
